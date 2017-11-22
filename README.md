@@ -8,7 +8,10 @@ Introduction
 
 ## Purpose
 
+Is there one?
+
 ## Deployment
 
-## How to contribute
+Not yet
 
+## How to contribute
