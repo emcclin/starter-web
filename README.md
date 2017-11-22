@@ -15,3 +15,7 @@ Is there one?
 Not yet
 
 ## How to contribute
+
+### Copyright
+
+Notice
