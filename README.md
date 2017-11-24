@@ -20,4 +20,4 @@ Fork you
 
 ### Copyright
 
-Notice
+Notice.  No way baby!
