@@ -1,6 +1,6 @@
 # Starter
 
-Hogwash - Adding more text
+Hogwash - Adding more text, and more changes from feature
 
 ## Introduction
 
